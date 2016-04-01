@@ -7,7 +7,7 @@ Around you is a forest.  A small stream flows out of the building and
 down a gully.
 
 Do you go:
-[North](open_forest/opem_forest.md)
+[North](open_forest/open_forest.md)
 [South](valley/valley.md)
 
 
