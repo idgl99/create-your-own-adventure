@@ -3,3 +3,4 @@ A low crawl over cobbles leads inwards to the west.
 The grate is open.
 
 [West](../crawl/crawl.md)
+[East](../unlockes_grate/unlockes_grate.md)
