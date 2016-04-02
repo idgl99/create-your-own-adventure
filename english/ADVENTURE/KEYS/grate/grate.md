@@ -11,5 +11,5 @@ Do you go:
 
 or
 
-[Unlock the grate](../unlocked_grate/unlocked_grate.md) 
+[Unlock the grate](../UNLOCKED/unlocked_grate/unlocked_grate.md) 
  
