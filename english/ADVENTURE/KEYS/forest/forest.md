@@ -4,6 +4,6 @@ Do you go:
 
 [North](../open_forest1/open_forest1.md)
 [South](../forest/forest.md)
-[East](../Valley/Valley.md)
-[West](../Valley/Valley.md)
+[East](../valley/valley.md)
+[West](../valley/valley.md)
 
