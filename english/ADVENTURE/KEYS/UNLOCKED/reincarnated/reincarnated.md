@@ -5,5 +5,5 @@ you emerge from the smoke and find....
 
 You're inside building.
 
-[West](../end_of_the_road.md)
+[West](../../end_of_the_road.md)
 
