@@ -3,3 +3,4 @@ at the east end of the passage.
 There is a small wicker cage discarded nearby.
 
 [West](../dark/dark.md)
+[East](../chamber/chamber.md)
