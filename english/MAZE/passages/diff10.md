@@ -1,4 +1,4 @@
-You are in a little maze of twisting passages] all different.
+You are in a little maze of twisting passages, all different.
 [SW](./diff1.md)
 [N](./diff2.md)
 [E](./diff3.md)
