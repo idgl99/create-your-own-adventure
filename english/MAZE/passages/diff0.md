@@ -8,4 +8,4 @@ You are in a maze of twisty little passages, all different.
 [E](./diff7.md)
 [W](./diff8.md)
 [N](./diff9.md)
-[D](../MAZE.md)
+[D](../END.md)

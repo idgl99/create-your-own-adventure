@@ -1,4 +1,3 @@
-make_loc(./wlong]
 You are at the west end of a very long featureless hall.  The hall
 joins up with a narrow north/south passage.
 
