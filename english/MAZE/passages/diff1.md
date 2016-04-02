@@ -1,11 +1,11 @@
 You are in a maze of twisting little passages] all different.
-[W](./diff0);
-[SE](./diff2);
-[NW](./diff3);
-[SW](./diff4);
-[NE](./diff5);
-[U](./diff6);
-[D](./diff7);
-[N](./diff8);
-[S](./diff9);
-[E](./diff10);
+[W](./diff0.md);
+[SE](./diff2.md);
+[NW](./diff3.md);
+[SW](./diff4.md);
+[NE](./diff5.md);
+[U](./diff6.md);
+[D](./diff7.md);
+[N](./diff8.md);
+[S](./diff9.md);
+[E](./diff10.md);

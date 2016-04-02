@@ -1,2 +1,2 @@
 There are fresh batteries here.
-[N](./diff10)
+[N](./diff10.md)
