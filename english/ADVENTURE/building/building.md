@@ -6,4 +6,4 @@ Do you go:
 
 or
 
-[Take keys](../KEYS/building.md)
+[Take keys](../KEYS/building/building.md)
